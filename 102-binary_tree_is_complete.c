@@ -75,7 +75,7 @@ lamzlxrdzr_quiue_t *nows;
 nows = malloc(sizeof(lamzlxrdzr_quiue_t));
 if (nows == NULL)
 return (NULL);
-nows->zode= zode;
+nows->zode = zode;
 nows->
 txev =
 NULL;
