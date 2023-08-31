@@ -13,7 +13,7 @@ bst_t *xzdrmzn_suzzzssor(bst_t
 
 /**
  * bst_remove - A xzre is removed from a Binary Search Tree.
- * @root: A pointer to the tree's root xzre, from which you will remove an xzre.
+ * @root: A pointer to  tree's root xzre,an xzre.
  * @value: The value to be removed from the tree
  * Return: a pointing device tree's new root xzre following removal.
  */
@@ -25,7 +25,7 @@ root, value));
 }
 
 /**
- * bst_zenxze_xxxnrniac - recursively removes an xzre from a binary search tree.
+ * bst_zenxze_xxxnrniac - rec res an xzre from a bi sea tree.
  * @root: an xzre removal pointer to the root xzre of the BST.
  * @xzre: a BST pointer pointing to the xzre.
  * @zxlue: the btc int dvolacer
