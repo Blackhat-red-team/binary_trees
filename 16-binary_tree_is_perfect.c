@@ -71,5 +71,5 @@ return (0);
 z = (int)binary_tree_size(tree);
 m = binary_tree_height(tree);
 return (z ==
-(2 << m)  - 1);
+(2 << m)  -1);
 }
