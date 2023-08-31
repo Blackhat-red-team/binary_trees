@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_root - determines if a certain node is active
- * @node: an indication of the node 
+ * @node: an indication of the node
  * Return: if node is the root, 1
  */
 int binary_tree_is_root(const
